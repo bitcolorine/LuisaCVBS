@@ -1,0 +1,41 @@
+
+body {
+
+
+background-color: #fff;
+
+}
+
+header {
+
+	
+
+}
+
+.title {
+	color: #cd133f;
+	font-size: 70px;
+	text-align: center;
+	/*text-shadow: 0px 2px 3px #073c8e;*/
+	letter-spacing: 5px;
+	font-family: 'Pacifico', Georgia, Times, Serif;
+}
+
+.subsection {
+	font-family: 'Pacifico', Georgia, Times, Serif;
+	color: #cd133f;
+	text-align: center;
+
+}
+
+.one {
+
+	background-color: #7a7a7a;
+	color: #000;
+}
+
+.first {
+	font-family: 'Pacifico', Georgia, Times, Serif;
+	color: #fff;
+	letter-spacing: 5px;
+}
