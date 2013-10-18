@@ -28,10 +28,18 @@ header {
 
 }
 
-.one {
+.main-photo{
 
+	background: url(../img/bg.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.one {
+	
 	background-color: #7a7a7a;
 	color: #000;
+	margin-top: 50px;
 }
 
 .first {
