@@ -1,9 +1,47 @@
 
+
+
+
+/* TYPOGRAPHY */
+
 body {
 
-
+font-family: 'PT Mono', Arial, Helvetica, sans-serif;
+font-size: 0.9em;
+font-size: 14px;
 background-color: #fff;
 
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+font-weight: 400;
+margin: 20px 0 10px 0;
+
+}
+
+h1, h3, h5 {
+font-family: 'Cardo', Georgia, Serif;
+line-height: 120%;
+Color: #000;
+
+}
+
+
+h2, h4, h6 {
+
+	font-family: 'Cardo', Georgia, Serif;
+	line-height: 110%;
+	color: #228b9c;
+}
+
+a {
+
+	font-family: 'PT Mono', Arial, Helvetica, Sans-Serif;
+	font-size: 100%;
+	font-weight: 400;
+	text-decoration: none;
 }
 
 .top {
@@ -13,16 +51,19 @@ background-color: #fff;
 
 
 .title {
+	font-family: 'Cardo', Times, Serif;
 	color: #cd133f;
 	font-size: 70px;
 	text-align: center;
 	/*text-shadow: 0px 2px 3px #073c8e;*/
 	letter-spacing: 5px;
-	font-family: 'Pacifico', Georgia, Times, Serif;
+	
 }
 
+/* END TYPOGRAPHY */
+
 .subsection {
-	font-family: 'Pacifico', Georgia, Times, Serif;
+	font-family: 'Cardo', Georgia, Times, Serif;
 	color: #cd133f;
 	text-align: center;
 
